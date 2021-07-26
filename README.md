@@ -1,9 +1,9 @@
-# Gohan Music 🎵
+# ParadoXmusicbot 🎵
 <p align="center">
-  <img src="https://telegra.ph/file/6b14ab68ab3dfd4200ca5.jpg">
+  <img src="https://telegra.ph/file/5bd8d4288b6301ecb7b28.jpg">
 </p>
 Cara termudah untuk membuat Bot ini
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Good-Boys-Exe/GohanMusic"><img src="https://img.shields.io/badge/DEPLOY KE-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/nishfu22/paradoxmusic"><img src="https://img.shields.io/badge/DEPLOY KE-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 
 Dapatkan STRING SESSION klik tombol dibawah untuk mendapatkan string (P)
 
@@ -47,6 +47,6 @@ Dapatkan STRING SESSION klik tombol dibawah untuk mendapatkan string (P)
 ### TELEGRAM
 Jika ada pertanyaan silahkan hubungi kami di grup atau di PM owner
 <p>
-    <a href="https://t.me/GB_03101999" target="blank"><img src="https://img.shields.io/badge/OWNER-ɢᴏᴏᴅ ʙᴏʏs-blue?style=plastic&logo=telegram"width="250" height="52"/></a>
-    <a href="https://t.me/GroupMusicRandom" target="blank"><img src="https://img.shields.io/badge/GROUP-Group Music Random-blue?style=plastic&logo=telegram"width="250" height="52"/></a>
+    <a href="https://t.me/pachemimd" target="blank"><img src="https://img.shields.io/badge/OWNER-NISHFU IM-blue?style=plastic&logo=telegram"width="250" height="52"/></a>
+    <a href="https://t.me/ParadoXzone" target="blank"><img src="https://img.shields.io/badge/GROUP-ParadoX zone-blue?style=plastic&logo=telegram"width="250" height="52"/></a>
 </p>
